@@ -1,2 +1,2 @@
 # Curso-JS
-Apredendo e Treinado no Javascript
+Aprendendo e Treinado no Javascript
